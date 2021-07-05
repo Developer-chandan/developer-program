@@ -58,10 +58,13 @@ body{
 }
 #about-us{
     margin-top:100px;
+    background-image:url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 #about-us .image-pannel{
     padding-left: 100px;
 }
 #about-us .content-pannel{
-    padding-left: 40px;
+    padding-left: 20px;
 }
